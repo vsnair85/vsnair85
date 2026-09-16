@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vishnu S Nair
 - 👀 I’m interested in 3 things... 1 is coding, 2 is coding and 3 is coding itself 👀
-- 🌱 I’m currently learning Laravel & Flutter.
 - 📫 You can rech me through my website and email.
 
 <!---
